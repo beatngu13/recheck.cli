@@ -4,7 +4,7 @@
 
 	<groupId>de.retest</groupId>
 	<artifactId>recheck.cli</artifactId>
-	<version>1.8.0</version>
+	<version>1.8.0-VT</version>
 	<packaging>jar</packaging>
 
 	<name>recheck.cli</name>
@@ -59,7 +59,7 @@
 		<url>https://github.com/retest/recheck.cli</url>
 		<connection>scm:git:git@github.com:retest/recheck.cli.git</connection>
 		<developerConnection>scm:git:git@github.com:retest/recheck.cli.git</developerConnection>
-		<tag>v1.8.0</tag>
+		<tag>v1.8.0-VT</tag>
 	</scm>
 
 	<distributionManagement>
@@ -77,7 +77,7 @@
 		<dependency>
 			<groupId>de.retest</groupId>
 			<artifactId>recheck</artifactId>
-			<version>1.8.0</version>
+			<version>1.8.0-VT</version>
 		</dependency>
 
 		<dependency>
